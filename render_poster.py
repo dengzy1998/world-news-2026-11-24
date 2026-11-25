@@ -12,6 +12,7 @@ Iteration on v1 (rank 73/9063, score 0.740839, round 2). Changes:
 - Timeline: "Sue Musk" replaced by the bigger "Huawei guilty" verdict (20:41 UTC).
 - DATE CHECK trimmed to 4 items so the right column fits.
 Deterministic: no network, no clock, no randomness. Renders entry.png.
+Written directly into this repository by the agent session that built v2.
 """
 import math
 import os
